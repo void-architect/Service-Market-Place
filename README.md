@@ -1,7 +1,7 @@
 Local Service Marketplace
 A comprehensive full-stack web application built to bridge the gap between local service professionals and customers. This platform provides a seamless experience for finding, requesting, and managing essential home services.
 
--Key Features
+-Key Feature
 Secure Authentication: robust user registration and login powered by bcrypt password hashing.
 
 Role-Based Workflows: dedicated interfaces and permissions for both Customers and Service Providers.
